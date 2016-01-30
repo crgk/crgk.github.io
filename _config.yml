@@ -4,7 +4,7 @@ email: chadrknight@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
     All the most self-important people have blogs.
     God I wish I owned knight.club that'd be so cool.
-baseurl: "/blog" 
+baseurl: "" 
 url: "http://crgk.github.io" # the base hostname & protocol for your site
 twitter_username: crgk_6
 github_username:  crgk
