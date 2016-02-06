@@ -1,5 +1,5 @@
 
-.flexbox {
+.pattern-box {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -7,7 +7,11 @@
     height: 6 * $pattern-line-height;
 }
 
-.pattern-box {
+footer > .pattern-box {
+    height: 4 * $pattern-line-height;   
+}
+
+.pattern-fill {
     position: absolute;
     top: 0;
     left: 0;
@@ -28,14 +32,17 @@
     line-height: $pattern-line-height;
     
     background-color: $gray-color-light;
-    max-height: 6 * $pattern-line-height;  // six lines of stuff
+    max-height: 6 * $pattern-line-height;  // force to overflow at 6
 }
 
-footer > .pattern-box {
+footer * .pattern-fill {
+    top: initial;
     max-height: 4 * $pattern-line-height;
 }
 
-.title-box {
+.pattern-box-text {
+    @extend .wrapper;
+    
     position: relative;
     display: block;
 
@@ -46,7 +53,6 @@ footer > .pattern-box {
     font-family: $title-font-family;
     background-color: white;
     border-radius: 5px;
-
 }
 
 .site-title {

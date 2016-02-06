@@ -14,8 +14,14 @@ function getPattern(count) {
     return s;
 }
 
+function createDiv() {
+    let d = document.createElement('div');
+    d.className = 'pattern-bg';
+    return d;
+}
+
 (function() {
-    let els = document.getElementsByClassName('pattern-box');
+    let els = document.getElementsByClassName('pattern-fill');
 
     for (let i=0; i < els.length; i++) {
         let el = els[i];
@@ -26,6 +32,6 @@ function getPattern(count) {
         // large number, either.
         let count = el.offsetWidth;
         
-        el.innerText += getPattern(count);
+        el.innerText = getPattern(count);
     }
 })();
