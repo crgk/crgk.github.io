@@ -1,6 +1,7 @@
 ---
 layout: post
-title: KNIGHT CLUB
+title: Knight Club
+author: Chad Knight
 ---
 
 Naming stuff is really hard.

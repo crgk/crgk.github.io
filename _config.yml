@@ -1,5 +1,5 @@
 # Site settings
-title: KNIGHT CLUB 
+title: Knight Club
 email: chadrknight@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
     All the most self-important people have blogs.
@@ -11,3 +11,10 @@ github_username:  crgk
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+
+gems:
+    - jekyll-mentions
+    - jemoji
+
