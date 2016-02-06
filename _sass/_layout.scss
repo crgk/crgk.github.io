@@ -1,41 +1,40 @@
-/**
- * Site header
- */
-.site-header {
-    // Positioning context for the mobile navigation icon
-    position: relative;
-}
 
-#pattern {
+.pattern-box {
     text-align: center;
     color: white;
-    font-size: 36px;
+    font-size: $pattern-font-size;
     font-family: $mono-font-family;
     
     // Make all the characters touch.
     letter-spacing: -4px;
-    line-height: 0.8333;
+    line-height: $pattern-line-height;
     
     background-color: $gray-color-light;
     word-wrap: break-word;
-    max-height: 173px;  // six lines of stuff
+    max-height: 6 * $pattern-line-height;  // six lines of stuff
     overflow: hidden;  // hide extra chars
+    @extend %clearfix;
+}
+
+footer > .pattern-box {
+    max-height: 4 * $pattern-line-height;
+}
+
+.title-box {
+    position: relative;
+    top: -4 * $pattern-line-height;
+
+    min-height: $pattern-line-height * 2;
+    font-family: $title-font-family;
+    background-color: white;
+    border-radius: 5px;
+
+    margin: 0 $spacing-unit / -2;
+    padding: 0 $spacing-unit / 2;
 }
 
 .site-title {
-    position: absolute;
-    top: 58px;
-    float: left;
-
-    padding: 8px;
-    min-height: 42px;
-    min-width: 116px;
-    background-color: white;
-    border-radius: 5px;
-    
     font-size: 24px;
-    line-height: 0.8333;
-    font-family: $title-font-family;
 
     &,
     &:visited {
@@ -111,16 +110,6 @@
 /**
  * Site footer
  */
-.site-footer {
-    border-top: 1px solid $gray-color-light;
-    padding: $spacing-unit 0;
-}
-
-.footer-heading {
-    font-size: 18px;
-    margin-bottom: $spacing-unit / 2;
-}
-
 .contact-list,
 .social-media-list {
     list-style: none;
