@@ -4,7 +4,7 @@ title: Knight Club
 author: Chad Knight
 ---
 
-Naming stuff is really hard.
+Naming stuff is really hard. (At least, I suck at it.)
 
 Every cool software person has their own domain.
 
