@@ -2,29 +2,50 @@
  * Site header
  */
 .site-header {
-    border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
-
     // Positioning context for the mobile navigation icon
     position: relative;
 }
 
+#pattern {
+    text-align: center;
+    color: white;
+    font-size: 36px;
+    font-family: $mono-font-family;
+    
+    // Make all the characters touch.
+    letter-spacing: -4px;
+    line-height: 0.8333;
+    
+    background-color: $gray-color-light;
+    word-wrap: break-word;
+    max-height: 173px;  // six lines of stuff
+    overflow: hidden;  // hide extra chars
+}
+
 .site-title {
-    font-size: 26px;
-    line-height: 56px;
-    letter-spacing: -1px;
-    margin-bottom: 0;
+    position: absolute;
+    top: 58px;
     float: left;
+
+    padding: 8px;
+    min-height: 42px;
+    min-width: 116px;
+    background-color: white;
+    border-radius: 5px;
+    
+    font-size: 24px;
+    line-height: 0.8333;
+    font-family: $title-font-family;
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: $gray-color-dark;
     }
 }
 
 .site-nav {
     float: right;
-    line-height: 56px;
+    line-height: 30px;
 
     .menu-icon {
         display: none;
@@ -45,7 +66,7 @@
         top: 9px;
         right: 30px;
         background-color: $background-color;
-        border: 1px solid $grey-color-light;
+        border: 1px solid $gray-color-light;
         border-radius: 5px;
         text-align: right;
 
@@ -63,7 +84,7 @@
                 height: 15px;
 
                 path {
-                    fill: $grey-color-dark;
+                    fill: $gray-color-dark;
                 }
             }
         }
@@ -91,7 +112,7 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    border-top: 1px solid $gray-color-light;
     padding: $spacing-unit 0;
 }
 
@@ -108,7 +129,7 @@
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $grey-color;
+    color: $gray-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
@@ -179,7 +200,7 @@
 
 .post-meta {
     font-size: $small-font-size;
-    color: $grey-color;
+    color: $gray-color;
 }
 
 .post-link {
@@ -219,6 +240,7 @@
 }
 
 .post-content {
+    font-family: $post-font-family;
     margin-bottom: $spacing-unit;
 
     h2 {

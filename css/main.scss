@@ -11,18 +11,22 @@ $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
+$post-font-family: "Book Antiqua",Palatino,"Palatino Linotype","Palatino LT STD",Georgia,serif;
+$title-font-family: $base-font-family;
+$mono-font-family: monaco,Consolas,"Lucida Console",monospace;
+
 $spacing-unit:     30px;
 
 $text-color:       #111;
 $text-color-light: lighten($text-color, 40%);
 
 $code-background-color: #f0eefe;
-$background-color: #fdfdfd;
+$background-color: white;
 $brand-color:      #2a7ae2;
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$gray-color:       #828282;
+$gray-color-light: lighten($gray-color, 40%);
+$gray-color-dark:  darken($gray-color, 25%);
 
 $on-palm:          600px;
 $on-laptop:        800px;
