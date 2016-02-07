@@ -81,6 +81,7 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
+    font-family: $title-font-family;
 }
 
 
@@ -125,6 +126,9 @@ blockquote {
 /**
  * Code formatting
  */
+pre {
+    position: relative;
+}
 pre,
 code {
     font-size: 15px;
@@ -150,6 +154,30 @@ pre {
 }
 
 
+.goto-background {
+    position: absolute;
+    min-width: 0;
+    
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    
+    text-align: center;
+    word-wrap: break-word;
+    overflow: hidden;  // hide extra chars
+
+    color: $goto-color-light;
+    font-size: $pattern-font-size;
+    font-family: $mono-font-family;
+    
+    // Make all the characters touch.
+    letter-spacing: -4px;
+    line-height: $pattern-line-height;
+    
+    background-color: $goto-color;
+}
 
 /**
  * Wrapper

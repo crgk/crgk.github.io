@@ -5,7 +5,7 @@
 
 
 
-// Our variables
+// Goto theme variables
 $base-font-family: Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
@@ -30,6 +30,11 @@ $brand-color:      #2a7ae2;
 $gray-color:       #828282;
 $gray-color-light: lighten($gray-color, 40%);
 $gray-color-dark:  darken($gray-color, 25%);
+
+$goto-color: #306090;
+$goto-color-light: $background-color;
+
+$post-title-font-size: 48px;
 
 $on-palm:          600px;
 $on-laptop:        800px;

@@ -16,15 +16,17 @@ function getPattern(count) {
 
 function createDiv() {
     let d = document.createElement('div');
-    d.className = 'pattern-bg';
+    d.className = 'goto-background';
     return d;
 }
 
 (function() {
-    let els = document.getElementsByClassName('pattern-fill');
+    let els = document.getElementsByClassName('goto-fill');
 
     for (let i=0; i < els.length; i++) {
         let el = els[i];
+
+        let d = createDiv();
 
         // It should be count = (rowWidth / charWidth) * maxRows
         // but there's no reason to make it that precise.
@@ -32,6 +34,7 @@ function createDiv() {
         // large number, either.
         let count = el.offsetWidth;
         
-        el.innerText = getPattern(count);
+        d.innerText = getPattern(count);
+        el.appendChild(d);
     }
 })();
