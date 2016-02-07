@@ -23,7 +23,6 @@ $pattern-line-height: $pattern-font-size * $pattern-line-ratio;
 $text-color:       #111;
 $text-color-light: lighten($text-color, 40%);
 
-$code-background-color: #f0eefe;
 $background-color: white;
 $brand-color:      #2a7ae2;
 
@@ -34,7 +33,10 @@ $gray-color-dark:  darken($gray-color, 25%);
 $goto-color: #306090;
 $goto-color-light: $background-color;
 
+$code-background-color: lighten($goto-color, 55%);
+
 $post-title-font-size: 48px;
+$box-border-radius: 6px;
 
 $on-palm:          600px;
 $on-laptop:        800px;

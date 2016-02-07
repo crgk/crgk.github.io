@@ -126,9 +126,6 @@ blockquote {
 /**
  * Code formatting
  */
-pre {
-    position: relative;
-}
 pre,
 code {
     font-size: 15px;
@@ -153,7 +150,6 @@ pre {
     }
 }
 
-
 .goto-background {
     position: absolute;
     min-width: 0;
@@ -177,6 +173,9 @@ pre {
     line-height: $pattern-line-height;
     
     background-color: $goto-color;
+    border-radius: inherit;
+
+    margin: initial;
 }
 
 /**

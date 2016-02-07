@@ -1,17 +1,14 @@
 <footer>
-  <div class="box-center box-title-small goto-fill">
-    
-    <div class="box-title-text">
+  <div class="box-center box-title-small">
+    <div class="box">
+      <div class="box-footer-text">
+        <ul class="contact-list">
+          <li>{{ site.author.name }}</li>
+          <li><a href="mailto:{{ site.email }}">{{ site.author.email }}</a></li>
+        </ul>
+      </div>
 
-      <div class="footer-col-wrapper">
-        <div class="footer-col  footer-col-1">
-          <ul class="contact-list">
-            <li>{{ site.author.name }}</li>
-            <li><a href="mailto:{{ site.email }}">{{ site.author.email }}</a></li>
-          </ul>
-        </div>
-
-        <div class="footer-col  footer-col-2">
+        <div class="box-footer-text">
           <ul class="social-media-list">
             {% if site.author.github %}
             <li>
@@ -43,12 +40,7 @@
             {% endif %}
           </ul>
         </div>
-
-        <div class="footer-col  footer-col-3">
-          <p class="text">{{ site.description }}</p>
-        </div>
       </div>
     </div>
-  
   </div>
 </footer>
