@@ -7,7 +7,7 @@
 
 // Goto theme variables
 $base-font-family: Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
+$base-font-size:   20px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
@@ -24,19 +24,25 @@ $text-color:       #111;
 $text-color-light: lighten($text-color, 40%);
 
 $background-color: white;
-$brand-color:      #2a7ae2;
 
 $gray-color:       #828282;
 $gray-color-light: lighten($gray-color, 40%);
 $gray-color-dark:  darken($gray-color, 25%);
 
-$goto-color: #306090;
+$theme-color-main: #306090;
+$theme-color-lightish: lighten($theme-color-main, 10%);
+
+$theme-color-alt: #603060;
+
+$goto-color: $theme-color-main;
 $goto-color-light: $background-color;
 
 $code-background-color: lighten($goto-color, 55%);
 
 $post-title-font-size: 48px;
 $box-border-radius: 6px;
+
+$icon-size: 48px;
 
 $on-palm:          600px;
 $on-laptop:        800px;

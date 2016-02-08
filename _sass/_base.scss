@@ -90,11 +90,11 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $brand-color;
+    color: $theme-color-lightish;
     text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: darken($theme-color-lightish, 15%);
     }
 
     &:hover {
@@ -112,7 +112,7 @@ blockquote {
     color: $gray-color;
     border-left: 4px solid $gray-color-light;
     padding-left: $spacing-unit / 2;
-    font-size: 18px;
+    font-size: $base-font-size * 1.2;
     letter-spacing: -1px;
     font-style: italic;
 
@@ -128,7 +128,7 @@ blockquote {
  */
 pre,
 code {
-    font-size: 15px;
+    font-size: $base-font-size * 0.8;
     border: 1px solid $gray-color-light;
     border-radius: 3px;
     background-color: $code-background-color;
@@ -158,7 +158,7 @@ pre {
     left: 0;
     width: 100%;
     height: 100%;
-    z-index: 0;
+    z-index: -1;
     
     text-align: center;
     word-wrap: break-word;
@@ -220,13 +220,11 @@ pre {
 .icon {
 
     > svg {
-        display: inline-block;
-        width: 16px;
-        height: 16px;
-        vertical-align: middle;
+        width: $icon-size;
+        height: $icon-size;
 
         path {
-            fill: $gray-color;
+            fill: $theme-color-main;
         }
     }
 }
