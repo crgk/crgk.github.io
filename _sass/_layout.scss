@@ -30,7 +30,9 @@
 
 .box-title {
     @extend .box;
+    min-height: 3 * $pattern-line-height;
     height: 9 * $pattern-line-height;
+    max-height: 36vh;
 }
 
 .box-title-small {
