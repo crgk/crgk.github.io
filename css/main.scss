@@ -3,17 +3,27 @@
 ---
 @charset "utf-8";
 
-
-
 // Goto theme variables
-$base-font-family: Helvetica, Arial, sans-serif;
+$sans-font-family: "Open Sans",sans-serif;
+$serif-font-family: "Roboto Slab",serif;
+$mono-font-family: "Source Code Pro",monospace;
+
+$post-font-family: $serif-font-family;
+$title-font-family: $sans-font-family;
+$code-font-family: $mono-font-family;
+
+$base-font-family: $sans-font-family; 
 $base-font-size:   20px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
-$post-font-family: "Book Antiqua",Palatino,"Palatino Linotype","Palatino LT STD",Georgia,serif;
-$title-font-family: "Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
-$mono-font-family: monaco,Consolas,"Lucida Console",monospace;
+$serif-font-family: "Roboto Slab",serif;
+$sans-font-family: "Open Sans",sans-serif;
+$mono-font-family: "Source Code Pro",monospace;
+
+$post-font-family: $serif-font-family;
+$title-font-family: $sans-font-family;
+$code-font-family: $mono-font-family;
 
 $spacing-unit:     30px;
 $pattern-font-size: 36px;
