@@ -88,12 +88,10 @@
 
 .site-title {
     flex: 1;
-    font-size: $base-font-size * 1.2;
-
-    &,
-    &:visited {
-        color: $gray-color-dark;
-    }
+    font-size: $pattern-font-size;
+    letter-spacing: $base-font-size;
+    font-weight: $font-weight-heavy;
+    color: $gray-color-dark;
 }
 
 .site-nav {

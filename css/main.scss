@@ -4,6 +4,8 @@
 @charset "utf-8";
 
 // Goto theme variables
+
+// Fonts
 $sans-font-family: "Open Sans",sans-serif;
 $serif-font-family: "Roboto Slab",serif;
 $mono-font-family: "Source Code Pro",monospace;
@@ -24,6 +26,8 @@ $mono-font-family: "Source Code Pro",monospace;
 $post-font-family: $serif-font-family;
 $title-font-family: $sans-font-family;
 $code-font-family: $mono-font-family;
+
+$font-weight-heavy: 600;
 
 $spacing-unit:     30px;
 $pattern-font-size: 36px;

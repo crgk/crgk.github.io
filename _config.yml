@@ -1,7 +1,8 @@
 # Site settings
 title: crgk
 description: >
-    Basically www.chadhoughts.gov.www\chadthoughts
+    Blog and stuff by Chad Knight.
+    Basically www.chadhoughts.gov.www\chadthoughts.
 baseurl: "" 
 url: "http://crgk.github.io" # the base hostname & protocol for your site
 author: 
