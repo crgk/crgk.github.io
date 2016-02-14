@@ -20,3 +20,7 @@ gems:
     - jekyll-mentions
     - jemoji
 
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - Makefile
