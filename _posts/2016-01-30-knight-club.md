@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Knight Club
+title: KNIGHT CLUB
 author: Chad Knight
 ---
 

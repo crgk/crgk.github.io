@@ -199,7 +199,6 @@
 .post-link {
     display: block;
     font-size: 24px;
-    text-transform: uppercase;
 }
 
 
@@ -217,13 +216,19 @@
 .post-title {
     font-family: $title-font-family;
     font-size: $post-title-font-size;
-    text-transform: uppercase;
     letter-spacing: -1px;
     line-height: 1;
 
     @include media-query($on-laptop) {
         font-size: 36px;
     }
+}
+
+.post-teaser {
+    font-size: $small-font-size;
+    color: $gray-color;
+    margin-top: -$spacing-unit / 2;
+    font-style: italic;
 }
 
 .post-subtitle {
