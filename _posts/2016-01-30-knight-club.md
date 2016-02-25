@@ -4,27 +4,21 @@ title: Knight Club
 author: Chad Knight
 ---
 
-Naming stuff is really hard. (At least, I suck at it.)
+You guys... what if I owned [knight.club](knight.club)? Just think about that with me for a bit.
 
-Every cool software person has their own domain.
+I could host this blog on [knight.club/blog](knight.club/blog). And it'd be like if a night club was a blog.
 
-I can't think of a good name.
+When I buy something at Banana Republic and they ask me for my email instead of awkwardly 
+saying "chad r wait do I have to tell you?" I'd get this huge grin, stand up a little straighter,
+wait until she looks up from the terminal and makes eye contact with me, then pretty much yell 
+"CHAD AT KNIGHT CLUB. CHAD LIKE THE COUNTRY, KNIGHT LIKE MY NAME, CLUB LIKE NO GIRLS ALLOWED."
+ 
+People would be searching for hot night clubs in their area and then they'd end up on my site.
+I could sell ads and make fat stacks of cashtown money from their mistake. But would it really
+be a mistake anymore? They'd love it in the [knight.club](knight.club). Bet they'd decide to stay home and just
+visit my site.
 
-And then I find "knight.club" on namecheap.
+There more we talk about it, the more I need it to happen. This is my calling. I am on this earth to
+create [knight.club](knight.club). It's all so clear now.
 
-But it costs $4,560.47.
-
-Damn.
-
-That'd be so cool.
-
-Now my whole blog is just talking about how much I want that domain name.
-
-But there's also all the other things I need to spend money on.
-
-Like food and housing.
-
-Crap.
-
-I really wanna buy this thing.
-
+Come with me on this journey.

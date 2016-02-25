@@ -4,22 +4,13 @@ title: About
 permalink: /about/
 ---
 
-You guys... what if I owned [knight.club](knight.club)? Just think about that with me for a bit.
+I'm Chad Knight. This is my place to write things. It's out here for you to read
+because otherwise what's the point.
 
-I could host this blog on [knight.club/blog](knight.club/blog). And it'd be like if a night club was a blog.
+Sometimes I'll write code. Just messing around, stretching the ol' web muscles. I'm supposed to be a software engineer, so it feels like I should stay on top of how a static website is built.
 
-When I buy something at Banana Republic and they ask me for my email instead of awkwardly 
-saying "chad r wait do I have to tell you?" I'd get this huge grin, stand up a little straighter,
-wait until she looks up from the terminal and makes eye contact with me, then pretty much yell 
-"CHAD AT KNIGHT CLUB. CHAD LIKE THE COUNTRY, KNIGHT LIKE MY NAME, CLUB LIKE NO GIRLS ALLOWED."
- 
-People would be searching for hot night clubs in their area and then they'd end up on my site.
-I could sell ads and make fat stacks of cashtown money from their mistake. But would it really
-be a mistake anymore? They'd love it in the [knight.club](knight.club). Bet they'd decide to stay home and just
-visit my site.
+Sometimes I'll write blog posts. For the amount of time I spend communicating via text, you'd think I'd be quite a bit better at it. So it's time to start getting ideas into writing more often.
 
-There more we talk about it, the more I need it to happen. This is my calling. I am on this earth to
-create [knight.club](knight.club). It's all so clear now.
+I don't anticipate this site becoming a fount of brilliance and insight. Hopefully, at some point, there will be more for me to write about than myself. And maybe there will be more people reading, too.
 
-Come with me on this journey.
-
+Let's see what this becomes.
