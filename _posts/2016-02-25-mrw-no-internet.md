@@ -108,7 +108,7 @@ Some thoughts:
 * Going to assume that I'm the only one viewing my web site without an internet connection and continue ignoring how awful things look without those fonts.
 * But what about the poor souls with bad internet connections? Do they wander the rest of the internet with 20s page load times because assholes like me need pretty letters?
 * I now have an intuitive understanding of why it's good to "fail fast".
-* Pretty sure A R Rahman ripped **Dreams On Fire** from the Dark Cloud 2 OST. I have no problem with that.
+* Pretty sure A R Rahman ripped *Dreams On Fire* from the Dark Cloud 2 OST. I have no problem with that.
 <br/>
 
 > ### 17:10 Thu Feb 25 2016
