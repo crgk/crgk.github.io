@@ -14,13 +14,11 @@ It just got quiet. Jeff usually doesn't just stop talking in the middle of a sen
 Ok yeah he's not talking anymore. Somebody is probably gonna say "looks like we lost Jeff".
 
 ...Hm. Is it my turn to do that?
-<br/>
 
 > ### 15:19 Thu Feb 25 2016
 > I am the problem
 
 Resetting router. Grumble grumble, I was in the flow, just barely tuned into that meeting.
-<br/>
 
 > ### 15:21 Thu Feb 25 2016
 > Comcast is the problem
@@ -28,13 +26,11 @@ Resetting router. Grumble grumble, I was in the flow, just barely tuned into tha
 Modem is blinking angrily. I should've practiced that morse code game more. Now would be a great time to refresh some of those skills...
 
 Comcast's website confirms an outage, optimistically guesses they'll have it fixed by 7pm.
-<br/>
 
 > ### 15:24 Thu Feb 25 2016
 > Too cheap to tether
 
 My phone can become a hotspot, but eff that noise I gobble up GBs like it's my job. (It kinda is my job.) Eh, it's already 3:30, day's almost done. Suppose I'll just clock out.
-<br/>
 
 > ### 15:25 Thu Feb 25 2016
 > Questioning my core values
@@ -47,13 +43,11 @@ Oh yeah, because I'm a fucking millenial and OBVIOUSLY media should always be st
 comes via the internet.
 
 I might actually die pretty soon here.
-<br/>
 
 > ### 15:31 Thu Feb 25 2016
 > REDEMPTION
 
 I actually have 39.04 GB of music on this computer. I've been carrying that collection around since high school. Let's see what we've got here...
-<br/>
 
 > ### 15:31 Thu Feb 25 2016
 > Now playing: 1 2 Step - Ciara
@@ -64,13 +58,11 @@ God damn it, Lewis.
     phone.
     
 How much is my wit my own? Am I clever at all, or am I just a proficient Googler? Shit just got real over here.
-<br/>
 
 > ### 16:00 Thu Feb 25 2016
 > Better Than Ezra is criminally underrated
 
 Haven't even been offline for an hour yet, and already the revelations are stacking up. Fully expecting to reach a higher form of awareness by 7pm.
-<br/>
 
 > ### 16:15 Thu Feb 25 2016
 > Strike one
@@ -93,14 +85,11 @@ Tensions are rising.
 
 Damn. I don't know anything.
 
-<br/>
 On another note, can we talk about how banging Slumdog Millionaire's soundtrack was? Hot damn &#xfffd;&#xfffd;&#xfffd;
 
     CHEAT 7: "emoji in sublime text"
 
 &#x1F525; There it is.
-
-<br/>
 
 > ### 16:40 Thu Feb 25 2016
 > (notsureif)
