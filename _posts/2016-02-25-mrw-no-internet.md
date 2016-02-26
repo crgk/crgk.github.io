@@ -98,6 +98,8 @@ I'm using Google Fonts for this blog right now. I'm connected to my WiFi network
 
 Chrome renders nothing until the requests to `fonts.googleapis.com` fail. Then it renders with the fallback fonts.
 
+![chrome-while-offline](/img/chrome-while-offline.png)
+
 If I turn off WiFi, we get straight to the point: my blog is ugly now.
 
 Some thoughts:
