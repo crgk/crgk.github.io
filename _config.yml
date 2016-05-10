@@ -32,10 +32,6 @@ markdown: kramdown
 kramdown:
   input: GFM
 
-gems:
-    - jekyll-mentions
-    - jemoji
-
 exclude:
     - Gemfile
     - Gemfile.lock
