@@ -83,9 +83,13 @@
 
     &:hover {
         background-color: $theme-color-main;
-        fill: $background-color;
         @extend %social-icon-hover;
     }
+}
+
+.social-icon-fg {
+    color: $background-color;
+    fill: $background-color;
 }
 
 .site-title {

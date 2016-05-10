@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+order: 2
 ---
 
 I'm Chad Knight. This is my place to write things. It's out here for you to read

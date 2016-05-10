@@ -11,6 +11,22 @@ author:
   twitter: crgk_6
   github:  crgk
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      category: post
+  -
+    scope:
+      path: "til"
+      type: "posts"
+    values:
+      layout: "post"
+      category: til
+
 # Build settings
 markdown: kramdown
 kramdown:

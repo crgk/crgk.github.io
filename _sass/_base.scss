@@ -209,8 +209,8 @@ pre {
 
 %social-icon-hover {
   border-radius: 100%;
-  color: white;
-  fill: white;
+  color: $background-color;
+  fill: $background-color;
   transform: scale(1.25);
   transition: background-color .5s, transform .5s ease-out;
 }

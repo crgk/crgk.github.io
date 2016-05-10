@@ -1,14 +1,17 @@
 ---
 layout: default
+title: TIL
+permalink: /til/
+order: 1
 ---
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">TIL</h1>
 
   <div class="box">
     <ul class="post-list">
-      {% for post in site.categories.post %}
+      {% for post in site.categories.til %}
         <li>
           <div class="post-info-card">
             <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
