@@ -23,5 +23,6 @@ I'm so pumped for the next stupid thing I install.
 SOURCE: 
 
 [`man path_helper`](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man8/path_helper.8.html)
+
 I don't remember what tipped me off to it today  ¯\\_(ツ)_/¯
 
