@@ -12,6 +12,11 @@ author:
   github:  crgk
 
 defaults:
+  - 
+    scope:
+      path: ""
+    values:
+      author: "Chad Knight"
   -
     scope:
       path: ""
