@@ -1,5 +1,5 @@
 ---
-title: The GitHub Web Client is Pretty Good
+title: The GitHub Web Client is P Good
 ---
 
 I browse projects on GitHub every day, but obviously prefer to edit locally.
