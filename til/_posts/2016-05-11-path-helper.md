@@ -10,10 +10,10 @@ When the install steps for a tool tell me to add `export PATH="$PATH:/some/bs/bi
 
 Or maybe it's perfectly rational:
 
-1) `export` is mutating global state
-2) `echo $PATH` is unreadable
-3) too lazy to find and edit my dotfiles, much less maintain them
-4) never remember to `source` the first time after making changes
+* `export` is mutating global state
+* `echo $PATH` is unreadable
+* too lazy to find and edit my dotfiles, much less maintain them
+* never remember to `source` the first time after making changes
 
 As long as you're okay with changing `PATH` system-wide. I can't see a reason not to do that on my work Macbook.  
 
