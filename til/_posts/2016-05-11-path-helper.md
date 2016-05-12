@@ -15,7 +15,7 @@ Or maybe it's perfectly rational:
 * too lazy to find and edit my dotfiles, much less maintain them
 * never remember to `source` the first time after making changes
 
-As long as you're okay with changing `PATH` system-wide, this is a game-changer. I can't see a reason not to do that on my work Macbook.  
+As long as you're okay with changing `PATH` system-wide, this is a game-changer. I can't see a reason not to do this `/etc/paths.d/` thing on my work Macbook.  
 
 I'm so pumped for the next stupid thing I install. 
 
