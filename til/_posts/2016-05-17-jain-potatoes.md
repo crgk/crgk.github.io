@@ -17,4 +17,4 @@ SOURCE:
 Was eating a tuber-heavy dinner at [Forbidden Root](http://forbiddenroot.com) when my fiancee was like
 "isn't there a religion that doesn't eat potatoes?"
 
-And https://en.m.wikipedia.org/wiki/Jainism
+And <https://en.m.wikipedia.org/wiki/Jainism>
