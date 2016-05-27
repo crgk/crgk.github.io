@@ -1,7 +1,7 @@
 ---
 title: Google Hangouts Mute Shortcut
 ---
-CMD+e toggles mute.
+CMD+d toggles mute.
 
 ---
 
