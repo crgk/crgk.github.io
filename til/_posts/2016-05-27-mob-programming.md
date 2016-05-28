@@ -16,5 +16,5 @@ the problem.
 SOURCE:
 
 Jason Kerney talk at LambdaConf 2016
-<bit.ly/rjkFirstTeam>
+[bit.ly/rjkFirstTeam](bit.ly/rjkFirstTeam)
 
