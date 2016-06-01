@@ -12,7 +12,7 @@ about a strikeout from the first inning, so now I'm confused.
 Luckily, this feature can be un-broken: go to your timeline settings and tell
 Twitter to cut it out.
 
-![twitter-timeline-fix](http://static2.hypable.com/wp-content/)
+![twitter-timeline-fix](http://static2.hypable.com/wp-content/uploads/2016/03/twitter-tweets-out-of-order-timeline.jpg)
 
 ---
 SOURCE:
