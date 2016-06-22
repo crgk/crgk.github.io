@@ -19,9 +19,6 @@ order: 1
             <h2 class="post-link">
               <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             </h2>
-            <div class="post-teaser">
-                {{ post.teaser }}
-            </div>
           </div>
         </li>
       {% endfor %}
