@@ -37,4 +37,4 @@ defaults:
 
 SOURCE:
 
-[Google Developers | Color browser elements](https://developers.google.com/web/fundamentals/design-and-ui/browser-customization/theme-color)
+[Google Developers \| Color browser elements](https://developers.google.com/web/fundamentals/design-and-ui/browser-customization/theme-color)
