@@ -2,7 +2,6 @@
 title: crgk
 description: >
     Blog and stuff by Chad Knight.
-    Basically www.chadhoughts.gov.www\chadthoughts.
 baseurl: "" 
 url: "http://crgk.github.io" # the base hostname & protocol for your site
 author: 
@@ -17,6 +16,7 @@ defaults:
       path: ""
     values:
       author: "Chad Knight"
+      theme_color: "#306090"
   -
     scope:
       path: ""

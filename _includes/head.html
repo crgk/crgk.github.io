@@ -10,4 +10,14 @@
     <link href='https://fonts.googleapis.com/css?family=Source+Code+Pro|Open+Sans:400,300|Roboto+Slab:300' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+    <!-- it is dumb that this isn't standardized -->
+    <!-- Chrome, Firefox OS and Opera -->
+    <meta name="theme-color" content="{{ page.theme_color }}">
+    <!-- Windows Phone -->
+    <meta name="msapplication-navbutton-color" content="{{ page.theme_color }}">
+    <!-- iOS Safari -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
 </head>
