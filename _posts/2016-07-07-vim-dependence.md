@@ -59,7 +59,6 @@ public Orange getOrange() {
     return fruits.getOrange();
 }
 
-
 ...12 more stupid times...
 ```
 > I repeat: I do not want to hear if you think this code is dumb.
