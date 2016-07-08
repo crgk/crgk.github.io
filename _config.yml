@@ -3,7 +3,7 @@ title: crgk
 description: >
     Blog and stuff by Chad Knight.
 baseurl: "" 
-url: "http://crgk.github.io" # the base hostname & protocol for your site
+url: "http://crgk.github.io"
 author: 
   name: Chad Knight
   email: chadrknight@gmail.com
