@@ -80,25 +80,25 @@ prepare a search for "getFruit"
 
 start recording in register "a"
 
-go to the next occurrence of "getFruit"
+    go to the next occurrence of "getFruit"
 
-go up one line (to the "fruitName = ..." line)
+    go up one line (to the "fruitName = ..." line)
 
-delete that line
+    delete that line
 
-go up one line
+    go up one line
 
-move two words to the right (cursor is on the method name)
+    move two words to the right (cursor is on the method name)
 
-copy the method name
+    copy the method name
 
-go back to the occurrence of "getFruit"
+    go back to the occurrence of "getFruit"
 
-replace "getFruit" with the method name
+    replace "getFruit" with the method name
 
 stop recording
 
-repeat 13 times
+replay recording "a" 13 times
 ```
 
 BOOM. REFACTORED.
