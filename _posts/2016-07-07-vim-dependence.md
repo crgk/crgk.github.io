@@ -71,7 +71,7 @@ But with vim recording, the whole thing took 30 key presses:
 ```
 /getFruit[ENTER]
 
-qankddk2wyiwnviwpq14@a
+qankddk2wyiwnviwpq13@a
 ```
 
 Which translates to:
@@ -99,7 +99,7 @@ replace "getFruit" with the method name
 
 stop recording
 
-repeat 14 times
+repeat 13 times
 ```
 
 BOOM. REFACTORED.
@@ -108,7 +108,7 @@ BOOM. REFACTORED.
 
 So, that's it. I can't use anything but vim. Even if emacs or Sublime has the same exact feature, I am happily dependent on vim.
 
-And the best part is, now I get to write little mini programs in order to write bigger programs more efficiently! I get to move my premature optimization to before I even change the code!
+And the best part is, now I get to write little mini programs in order to write bigger programs more efficiently! I get to write errors in the thing that's supposed to help me fix bugs! I get to move my premature optimization to before I even change the code!
 
 Heck yeah.
 
