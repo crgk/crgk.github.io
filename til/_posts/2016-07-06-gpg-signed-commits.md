@@ -11,10 +11,15 @@ Turns out I didn't know a lot of things related to this one.
 ## Super-abbreviated steps
 
 1) Generate a GPG key: `$ gpg --gen-key` (or use GPG Suite)
+
 2) Copy the key id: `$ gpg --list-secret-keys --keyid-format LONG`
+
 3) Tell git: `$ git config --global user.signingkey 3AA5C34371567BD2`
+
 4) Tell GitHub: Profile menu > Settings > SSH and GPG keys > New GPG key
+
 5) Sign your commit: `$ git commit -S`
+
 6) (optional) Tell git to sign by default: `$ git config commit.gpgsign true`
  
 ## But... why?
