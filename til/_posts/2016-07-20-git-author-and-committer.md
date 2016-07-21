@@ -26,9 +26,11 @@ Commit: Chad Knight <chadrknight@gmail.com>
     attempting to sign as crgk
 ```
 
+__Sidebar: This was a great usecase for vim's `:r!`, which [I learned about recently.](http://crgk.github.io/til/2016/07/18/vimbang.html)__
+
 I learned about this because in my attempts to be smart and sign commits with two different keys, I ended up making commits as two different versions of myself. This shows up on GitHub like so:
 
-![crgk-as-chadknight-wf](img/crgk-as-chadknight-wf.png)
+![crgk-as-chadknight-wf](/img/crgk-as-chadknight-wf.png)
 
 Obviously that is unacceptable. The fix: make sure your committer and author emails are the same.
 
