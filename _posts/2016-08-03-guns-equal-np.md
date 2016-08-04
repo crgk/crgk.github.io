@@ -27,7 +27,7 @@ We must start introducing protective measures. The Internet will still be availa
 ---
 > Next stop: 1984
 
-If you share much of my point of view, that started very quickly to sound like how fascism gets started in every dystopian future you can imagine.
+If you share much of my point of view, it was stupid-obvious that that's how fascism gets started in every dystopian future you can imagine.
 
 It would be absolutely alarming to me if the country started embracing ideas like that, and I would fear for the future of our society. A bit dramatic, but still true.
 
