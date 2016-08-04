@@ -7,7 +7,7 @@ This 2016 election cycle has made me realize one huge thing about my life in thi
 
 I have to believe that most Americans are not hoping for our country to get worse, yet we disagree so fundamentally (and seemingly irreconcilably) on certain social issues that it's hard to see how a reasonable person who you can otherwise coexist with could possibly hold to their "abhorrent" beliefs.
 
-So, in the midst of some highly divisive politics, I'm trying to at least understand the convictions of those Americans I disagree with. It sucks that this is so hard to do. It sucks more than our tough national conversations don't start with an earnest effort at empathy. We could at least try.
+So, in the midst of some highly divisive politics, I'm trying to at least understand the convictions of those Americans I disagree with. It sucks that this is so hard to do. It sucks even more that our tough national conversations don't start with an earnest effort at empathy. We could at least try.
 
 I'll start with gun control. _Should be easy enough._
 
