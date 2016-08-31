@@ -2,12 +2,13 @@
 title: git rebase --autosquash
 ---
 
-If you start a commit message with "squash!", `git rebase -i --autosquash` will automatically mark that commit to be squashed.
+If you start a commit message with "squash!", git's interactive rebase will automatically mark that commit to be squashed.
 
 # Riveting example
 
-```zsh
+```bash
 $ git log
+
 commit f3c9e55396c2294e672de91d1d26f0949f05ce53
 Author: Chad Knight <chadrknight@gmail.com>
 Date:   Tue Aug 30 21:24:42 2016 -0500
@@ -31,11 +32,9 @@ Date:   Tue Aug 30 21:18:31 2016 -0500
     autosquash post
 ```
 
-```zsh
+```bash
 $ git rebase master -i --autosquash
-```
 
-```zsh
 pick 3dccb7c autosquash post
 squash 66240d9 squash! autosquash post
 squash f3c9e55 squash! autosquash post
@@ -60,20 +59,14 @@ squash f3c9e55 squash! autosquash post
 # Note that empty commits are commented out
 ```
 
-```zsh
+```bash
 [[ remove all the extra lines from the final message ]]
 ```
 
-```zsh
+```bash
 Rebasing (2/3)
-You need a passphrase to unlock the secret key for
-user: "Chad Knight <chad.knight@workiva.com>"
-4096-bit RSA key, ID 309C4B0B, created 2016-07-06
 
 Rebasing (3/3)
-You need a passphrase to unlock the secret key for
-user: "Chad Knight <chad.knight@workiva.com>"
-4096-bit RSA key, ID 309C4B0B, created 2016-07-06
 
 [detached HEAD 901f6df] autosquash post
  Date: Tue Aug 30 21:18:31 2016 -0500
@@ -82,7 +75,9 @@ user: "Chad Knight <chad.knight@workiva.com>"
 Successfully rebased and updated refs/heads/autosquash.
 ```
 
-```zsh
+```bash
+$ git log
+
 commit 901f6df8c3aa74e611f5d33fb4188354fa1784fe
 Author: Chad Knight <chadrknight@gmail.com>
 Date:   Tue Aug 30 21:18:31 2016 -0500
@@ -117,6 +112,6 @@ You can also use "fixup!" if you want to automatically drop the message from tha
 
 
 ---
-SOURCE: `git rebase --help`
----
+
+SOURCE: [`git rebase --help`](https://git-scm.com/docs/git-rebase)
 
