@@ -4,11 +4,9 @@ title: Now
 permalink: /now/
 ---
 
-I currently live with my fianceé and cat in Chicago. I try to share my time between enjoying the city and lounging on my couch.
+I currently live with my fianceé and cat in Chicago. I'm becoming a hobbyist baker and have a growing vinyl collection. It's terribly yuppie millennial.
 
-My free time fills up with food, drink, and friends. I tell myself that I read books, write a blog, and listen to the radio, but actually it's just mostly Netflix and Reddit. 
+By day, I am a mild-mannered software engineer at Workiva. I work from home often.
 
-Workiva pays me to be a software engineer. I work from home mostly.
-
-Wedding plans are picking up - the big day is next May.
+My fiancée and I are building a website for our wedding. I'm uncomfortable having a deadline for this project.
 
