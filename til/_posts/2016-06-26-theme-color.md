@@ -12,9 +12,9 @@ Of course, it isn't standard and you have to do something different for the vari
 
 ```html
 <!-- Chrome, Firefox OS and Opera -->
-<meta name="theme-color" content="{{ page.theme_color }}">
+<meta name="theme-color" content="{% raw %}{{ page.theme_color }}{% endraw %}">
 <!-- Windows Phone -->
-<meta name="msapplication-navbutton-color" content="{{ page.theme_color }}">
+<meta name="msapplication-navbutton-color" content="{% raw %}{{ page.theme_color }}{% endraw %}">
 <!-- iOS Safari -->
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
