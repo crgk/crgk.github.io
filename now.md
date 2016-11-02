@@ -4,9 +4,9 @@ title: Now
 permalink: /now/
 ---
 
-I currently live with my fianceé and cat in Chicago. I'm becoming a hobbyist baker and have a growing vinyl collection. It's terribly yuppie millennial.
+I currently live with my fianceé and cat in Chicago.
 
-By day, I am a mild-mannered software engineer at Workiva. I work from home often.
+I'm helping Workiva build software to make it easier for folks to do work.
 
-My fiancée and I are building a website for our wedding. I'm uncomfortable having a deadline for this project.
+My fiancée and I are building a website for our wedding. I'm uncomfortable having a deadline for this project. Plus, people I know will probably end up seeing it.
 
