@@ -38,4 +38,4 @@ When you pull out your phone and autopilot to Instagram, are you replacing downt
 
 If you're upset about the filter bubble, your first step is to realize that you build it around yourself, every day. Second is to realize that you aren't trapped in it. Bubbles pop really easily. That's Bubble 101.
 
-Just remember, the social networks **are not** going to pop this bubble for you. They're making shit tons of money by showing you things you like to see. If you want to break out, you just need to do something.
+Just remember, the social networks **are not** going to pop this bubble for you. They're making shit tons of money by showing you things you like to see. If you want to break out, it's on you to take back control of what you consume.
