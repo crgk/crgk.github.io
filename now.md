@@ -8,5 +8,5 @@ I currently live with my fianceé and cat in Chicago.
 
 I'm helping Workiva build software to make it easier for folks to do work.
 
-My fiancée and I are building a website for our wedding. I'm uncomfortable having a deadline for this project. Plus, people I know will probably end up seeing it.
+It's gotten to the point where I have to put board games (and now DnD) on my list of hobbies. I've also started brewing beer at home.
 
