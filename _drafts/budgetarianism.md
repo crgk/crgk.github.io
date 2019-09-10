@@ -7,6 +7,23 @@ This is a post about my diet. It is a diet in the sense that it is a set of cons
 - take control over part of your life
 - do it in a way that's easy to succeed
 
+My rules:
+- Pescatarianism
+  - No meat, except fish
+- With four exceptions a week
+- Weeks restart on Sunday
+
+Example week:
+- Sunday brunch: summer sausage garnish in a bloody mary
+- Monday night: buffalo wings
+- Wednesday night: pepperoni pizza
+- Saturday lunch: mac and cheese with bacon
+- All other meals fit within pescatarianism
+
+This example is not representative of an actual week that I lived. But it does pull from actual exceptions that I can remember, which I think showcase the biggest benefits this system has for me:
+  - I can clearly remember all of those exceptions
+  - I really enjoyed all of those cheats, and felt good after
+
 - Eat within your rules
 - Allow yourself to choose to cheat
 - Iterate towards your ideal
