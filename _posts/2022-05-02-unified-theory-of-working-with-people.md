@@ -11,15 +11,15 @@ you are either asking for information or action.
 
 You ask people for *information* to help you do the stuff you can do.
 
-	- This feels good when you recognize that you need the input
-	- This feels bad when you are forced to garner approval
+- This feels good when you recognize that you need the input
+- This feels bad when you are forced to garner approval
 
 You ask people for *action* to do the stuff you need others to do.
 
-	- This feels good when the person knows they can do the task
-	- It's best when they believe they should do it
-	- It's bad if they feel distracted because your request isn't important to them
-	- It's the worst if they feel coerced to do your busywork
+- This feels good when the person knows they can do the task
+- It's best when they believe they should do it
+- It's bad if they feel distracted because your request isn't important to them
+- It's the worst if they feel coerced to do your busywork
 
 People work well together when they share a common understanding of what they
 each can do and what they are needed by others to do. Good coworkers trust each
