@@ -14,7 +14,7 @@ And so, without further sentimentality, it is my wish to pass on some of the ide
 ### People are happy to follow
 You are likely ready to lead earlier than you think.
 
-Don't stop yourself from being seen as an expert. Our leaders at Workiva are rarely territorial or greedy for more responsibility. When somebody steps up and claims authority in an area that motivates them, it's always welcome.
+Don't stop yourself from being seen as an expert. Leaders at a healthy organization aren't territorial or greedy for more responsibility. When somebody steps up and claims authority in an area that motivates them, it's always welcome.
 
 If you tell yourself to wait for an invitation or leadership assignment, you are holding yourself back.
 
@@ -23,7 +23,7 @@ And when you get an opportunity to make decisions, don't hedge too much. Try out
 ### Include others, always
 Avoid wielding influence in private. Prefer open slack channels over direct messages. Raise your hand, wait your turn, let others speak. When you don't have the answers, facilitate a conversation between the people who do, but don't make yourself a middleman.
 
-Workiva is full of talented people who are nice to work with. Make sure you're one of them :)
+Make sure you're somebody people like to work with.
 
 ### Requests for Action vs. Requests for Information
 As a technical leader, you're going to field a lot of requests. If you misinterpret requests for information as requests for you to take action, you'll end up misallocating a lot of your time. Make sure you know what folks are actually asking of you, and make sure you know what you're asking of others.
@@ -39,7 +39,7 @@ Avoid surprising your colleagues with difficult ideas during live meetings.
 <div style="display: flex; flex-wrap: wrap; gap: 12px">
   <div class="well" style="width: 240px">
       <h4 style="min-height: 80px"><a href="https://crgk.github.io/post/2022/05/02/unified-theory-of-working-with-people.html">The Unified Theory of Working with People</a></h4>
-      <div><i class="icon icon-user"></i> ya boi cited himself</div>
+      <div><i class="icon icon-user"></i> it me</div>
       <div><i class="icon icon-calendar"></i> 2022-05-02</div>
       <div><i class="icon icon-hourglass"></i> 1 minute read</div>
   </div>
