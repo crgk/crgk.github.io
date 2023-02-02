@@ -1,12 +1,9 @@
-Title: Ideas that Impacted Me
-Date: 2023-01-27 12:00
-Category: Lessons
-Tags: unsolicited advice, fluff, career growth, coaching, culture, opinion, leadership, mocking, people
-Slug: ideas-that-impacted-me
-Author: Chad Knight
-Summary: Parting thoughts from an almost-lifer
+---
+title: Ideas that Impacted Me
+teaser: Pretending at wisdom as I pause my engineering career
+---
 
-My relationship with Workiva (WebFilings, at the time) began in the fall of 2011, when Dave Tucker sponsored my Senior Design project at Iowa State and my team cost the company thousands of dollars in GAE quota. But we learned an important lesson in how to fan out background processing tasks!
+My relationship with Workiva (WebFilings, at the time) began in the fall of 2011, when the company sponsored my Senior Design project at Iowa State and my team cost the company thousands of dollars in GAE quota. But we learned an important lesson in how to fan out background processing tasks!
 
 Now, after a happy journey along the engineering career track, I'm getting ready to say goodbye to Workiva and set off on a new adventure in parenthood. It has been hugely rewarding to grow up with this company, as I have had ample opportunities to encounter new ideas and apply them to real-world situations.
 
@@ -24,7 +21,7 @@ If you tell yourself to wait for an invitation or leadership assignment, you are
 And when you get an opportunity to make decisions, don't hedge too much. Try out a MUST where you feel safer with SHOULD.
 
 ### Include others, always
-Avoid wielding influence in private. Prefer open slack channels over direct messages. Raise your hand, wait your turn, <span title="unless it's Tom Deering then mute him" style="text-decoration: underline dotted">let others speak</span>. When you don't have the answers, facilitate a conversation between the people who do, but don't make yourself a middleman.
+Avoid wielding influence in private. Prefer open slack channels over direct messages. Raise your hand, wait your turn, let others speak. When you don't have the answers, facilitate a conversation between the people who do, but don't make yourself a middleman.
 
 Workiva is full of talented people who are nice to work with. Make sure you're one of them :)
 
@@ -39,7 +36,6 @@ Meet with stakeholders before you commit to a decision, and they become your col
 Avoid surprising your colleagues with difficult ideas during live meetings.
 
 ---
-<!-- I don't want to hear about better ways to have done this, Aaron Lademann -->
 <div style="display: flex; flex-wrap: wrap; gap: 12px">
   <div class="well" style="width: 240px">
       <h4 style="min-height: 80px"><a href="https://crgk.github.io/post/2022/05/02/unified-theory-of-working-with-people.html">The Unified Theory of Working with People</a></h4>
@@ -148,7 +144,4 @@ Early on, I had a tendency to act like the goal of documenting was to record eve
 
 ## Farewell
 It has been a genuine pleasure to spend the first slice of my adult life working here. I really do hope to stay in touch with as many of you as I can. Please reach out to connect, if we haven't already.
-
-<!-- This is a hack to get around the check that Sullivan added to the blog build to prevent this exact mistake. -->
-<p>In closing: it's Wdesk. Not w&#8203Desk. Never w&#8203Desk. Please stop saying w&#8203Desk.</p>
 
