@@ -29,7 +29,7 @@ Workiva is full of talented people who are nice to work with. Make sure you're o
 As a technical leader, you're going to field a lot of requests. If you misinterpret requests for information as requests for you to take action, you'll end up misallocating a lot of your time. Make sure you know what folks are actually asking of you, and make sure you know what you're asking of others.
 
 ### Nemawashi: before the meeting
-_Nemawashi_ is a Japanese term that I've seen intepreted as "the meeting(s) before the meeting." In attempting to apply this technique, I've shifted my expectations for large review meetings, and I think they've become more successful. When you have complex ideas that you want others to learn, embrace, or approve of, you shoudn't expect a one hour presentation to bring everybody up to speed.
+_Nemawashi_ is a Japanese term that I've seen interpreted as "the meeting(s) before the meeting." In attempting to apply this technique, I've shifted my expectations for large review meetings, and I think they've become more successful. When you have complex ideas that you want others to learn, embrace, or approve of, you shoudn't expect a one hour presentation to bring everybody up to speed.
 
 Meet with stakeholders before you commit to a decision, and they become your collaborators.
 
