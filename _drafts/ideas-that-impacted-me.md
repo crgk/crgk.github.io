@@ -75,11 +75,6 @@ Give yourself time to think. That means both carving out time on your calendar t
       <h4 style="min-height: 80px"><a href="https://todoist.com/productivity-methods/eisenhower-matrix">The Eisenhower Matrix</a></h4>
       <div><i class="icon icon-company"></i> todoist.com</div>
   </div>
-  <div class="well" style="width: 240px">
-      <h4 style="min-height: 80px"><a href="https://w-dev-blog.appspot.com/posts/2019/10/18/principal-tips/index.html">Thinking is Work</a></h4>
-      <div><i class="icon icon-user"></i> Jeff Read</div>
-      <div><i class="icon icon-calendar"></i> 2019-10-18</div>
-  </div>
 </div>
 ---
 
@@ -140,8 +135,3 @@ Early on, I had a tendency to act like the goal of documenting was to record eve
       <div><i class="icon icon-company"></i> divio.com</div>
   </div>
 </div>
-
-
-## Farewell
-It has been a genuine pleasure to spend the first slice of my adult life working here. I really do hope to stay in touch with as many of you as I can. Please reach out to connect, if we haven't already.
-
