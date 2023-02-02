@@ -50,6 +50,7 @@ Avoid surprising your colleagues with difficult ideas during live meetings.
       <div><i class="icon icon-hourglass"></i> 10 minute read</div>
   </div>
 </div>
+
 ---
 
 # On time management
@@ -76,6 +77,7 @@ Give yourself time to think. That means both carving out time on your calendar t
       <div><i class="icon icon-company"></i> todoist.com</div>
   </div>
 </div>
+
 ---
 
 
@@ -109,6 +111,7 @@ Avoid the temptation to lay out big, multi-year efforts that drag your system to
       <div><i class="icon icon-hourglass"></i>2 minute read</div>
   </div>
 </div>
+
 ---
 
 # On documentation
@@ -129,9 +132,12 @@ It's excellent.
 ### There's no "100% coverage" for documentation
 Early on, I had a tendency to act like the goal of documenting was to record every property and detail of it to some historical record. But we don't write documentation for posterity, we write it to communicate important, non-obvious information to others (or our future selves). Keep in mind who your audience is, what they care about, and how you can efficiently convey that to them.
 
+---
 <div style="display: flex; flex-wrap: wrap; gap: 12px">
   <div class="well" style="width: 240px">
       <h4 style="min-height: 80px"><a href="https://documentation.divio.com/">The Grand Unified Theory of Documentation</a></h4>
       <div><i class="icon icon-company"></i> divio.com</div>
   </div>
 </div>
+
+---
