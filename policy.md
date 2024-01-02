@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: policy
 title: "Private Policy"
 permalink: /policy
 ---
