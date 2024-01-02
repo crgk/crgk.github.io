@@ -1,5 +1,5 @@
 layout: page
-title: Private Policy
+title: "Private Policy"
 permalink: /policy
 
 # Forbidden
