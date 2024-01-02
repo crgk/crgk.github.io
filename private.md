@@ -4,4 +4,4 @@ permalink: /policy
 
 # Forbidden
 
-This policy is private and you are not able to view it.
+This policy is private. You are not allowed to view it.
