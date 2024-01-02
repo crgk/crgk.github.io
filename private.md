@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Private Policy"
 permalink: /policy
+---
 
 # Forbidden
 
